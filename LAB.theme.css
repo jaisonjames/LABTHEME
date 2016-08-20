@@ -1452,18 +1452,21 @@ div[data-bd="backdrop"] {
     -webkit-mask-size:16px;
 }
 
-#voice-connection .btn-info:after{
-    -webkit-mask-image: url(/assets/d44f38b8b37257c7684e2b3286669a0f.svg);    
-    -webkit-mask-size:8px 19px;
+/* Custom Cyan-coloured Icons */
+.icon-muted {
+    background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/cyan-firewatch/cyan-muted.svg') !important;
 }
 
-#voice-connection .btn-disconnect:after{
-    -webkit-mask-image: url(/assets/6754187fddb4fcf6a1927712ee14562c.svg);
-    -webkit-mask-size: 16px;
+.icon-deafened {
+    background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/cyan-firewatch/cyan-deafen.svg') !important;
 }
 
-#voice-connection .btn:after{
-    background:red;
-    -webkit-mask-repeat: no-repeat;
+.icon-settings {
+   background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/cyan-firewatch/cyan-setting.svg') !important;
+}
+
+.icon-instant-invite {
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/cyan-firewatch/cyan-instant-invite.svg') !important;
+}
     -webkit-mask-position: center;
 }
