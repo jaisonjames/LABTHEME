@@ -1,4 +1,4 @@
-//META{"name":"lol_Theme","description":"lmao","author":"jaisonjames","version":"1.0"}*//{}
+//META{"name":"random_Theme","description":"a theme","author":"jaisonjames","version":"1.0"}*//{}
 
 
 /* 
@@ -33,11 +33,11 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/217015548540616707/free-porn-wallpaper-784683.png) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/217021125933137920/217031619964305409/fEfuN4Y.png) !important;
     background-size: cover !important;
 }
 .callout-backdrop {
-    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/217015548540616707/free-porn-wallpaper-784683.png) !important;
+    background-image: urlhttps://cdn.discordapp.com/attachments/217021125933137920/217031619964305409/fEfuN4Y.png) !important;
     background-size: cover !important;
 }
 
