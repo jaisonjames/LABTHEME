@@ -1,4 +1,4 @@
-//META{"name":"LAB_Theme","description":"LAB Theme.","author":"jaisonjames","version":"1.0"}*//{}
+//META{"name":"Hitler_Theme","description":"Hitler Theme.","author":"jaisonjames","version":"1.0"}*//{}
 
 
 /* 
@@ -33,11 +33,11 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/217034478474887168/maxresdefault.png) !important;
     background-size: cover !important;
 }
 .callout-backdrop {
-    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/217034478474887168/maxresdefault.png) !important;
     background-size: cover !important;
 }
 
