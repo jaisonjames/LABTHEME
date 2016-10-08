@@ -33,11 +33,11 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/234442566483836947/hZM1iGDaG7m4Jpb9saqjllnY2bEZv1Zjkn4kdNoWLVxlm94N2xhURk-TNGuHqEUbiSSU58FS5RTIBroI12x-EmcwJPpK_1uugNMicXmXB5i6B4P7bX-wImhiCsfC_Zmnv9Wbop_5xyYbo1BPPw.png) !important;
     background-size: cover !important;
 }
 .callout-backdrop {
-    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/187534026045652992/234442566483836947/hZM1iGDaG7m4Jpb9saqjllnY2bEZv1Zjkn4kdNoWLVxlm94N2xhURk-TNGuHqEUbiSSU58FS5RTIBroI12x-EmcwJPpK_1uugNMicXmXB5i6B4P7bX-wImhiCsfC_Zmnv9Wbop_5xyYbo1BPPw.png) !important;
     background-size: cover !important;
 }
 
